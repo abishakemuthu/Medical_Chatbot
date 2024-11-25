@@ -6,3 +6,4 @@ langchain_community
 sentence_transformers
 pinecone-client[grpc]
 openai==0.28
+utils
